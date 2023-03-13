@@ -44,6 +44,6 @@ pip install "tensorflow<2.11"
 1) Download stellargraph package (https://github.com/stellargraph/stellargraph)
 2) Place stellargraph into envs/mtsmlcup/Lib/site-packages
 3) Move into stellargraph dir
-4) Comment #python_requires=">=3.6.0, <3.9.0",
+4) Inside setup.py comment #python_requires=">=3.6.0, <3.9.0",
 5) cd envs/mtsmlcup/Lib/site-packages/stellargraph
 6) pip install .
