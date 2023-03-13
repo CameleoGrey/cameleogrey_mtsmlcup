@@ -5,7 +5,7 @@
 My developments for [MTS ML CUP](https://ods.ai/competitions/mtsmlcup)
 
 
-Final solution: all features + 10 cv DANets averaging
+Final solution: all features (aggregates by user_id: price, count, cat features, encoded (w2v + node2vec) urls) + 10 cv DANets averaging
 
 ![](cameleogrey_leaderboard_03_13_2023.png)
 
