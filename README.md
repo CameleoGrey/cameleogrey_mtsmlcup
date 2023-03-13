@@ -4,11 +4,17 @@
 
 My developments for [MTS ML CUP](https://ods.ai/competitions/mtsmlcup)
 
+
+Final solution: all features + 10 cv DANets averaging
+
 ![](cameleogrey_leaderboard_03_13_2023.png)
 
 Hardware:
+
 CPU: Intel Xeon E5-2650V2
+
 RAM: 64 Gb DDR3
+
 GPU: RTX 3060 (12 Gb)
 
 # Installation
